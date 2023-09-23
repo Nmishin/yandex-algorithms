@@ -1,3 +1,5 @@
+// O(N^2) complexity
+
 package main
 
 import "fmt"
